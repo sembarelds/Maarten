@@ -1,0 +1,11 @@
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\bin\Debug\maartenproject v0.exe.config
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\bin\Debug\maartenproject v0.exe
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject v0.csprojAssemblyReference.cache
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject_v0.Form1.resources
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject_v0.Form2.resources
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject_v0.Properties.Resources.resources
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject v0.csproj.GenerateResource.cache
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject v0.csproj.CoreCompileInputs.cache
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject v0.exe
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\obj\Debug\maartenproject v0.pdb
+C:\Users\bakst\OneDrive - Friesland College\School Sem Barelds\Jaar 1\C#\maartenproject v0\maartenproject v0\bin\Debug\maartenproject v0.pdb
